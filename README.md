@@ -9,7 +9,7 @@
 ### 個人成績
 - 區域預選賽代表資格
 ![](https://i.imgur.com/eJHGFRS.png)
-- higest rank
+- highest rank
 ![](pic.png)
 ### 自我簡介
 我叫陳思翰，畢業於輔仁大學，專長桌球
